@@ -1,0 +1,55 @@
+head{
+    background-image: url("img/thumb_700\ \(1\).png");
+
+}
+
+
+h1{
+    color:white;
+    background-color:blueviolet;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    border: 4px solid black;
+    text-shadow: 2px 2px lightgray;
+}
+
+body{
+    background-image:url("img/6713581.jpeg");
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+    background-position:100%;
+    background-size: 100%;
+    text-align: center;
+}
+
+img{
+    margin-left: -1100;
+    margin-top: -30px;
+}
+textarea{
+    border: 2px solid black
+}
+label{
+    color:white
+}
+a:link, a:visited{
+    background-color:darkblue;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display:inline-block;
+}
+a:hover, a:active{
+    background-color:darkblue
+}
+form{
+    text-align: right;
+    margin-top: -210px;
+}
+p{
+    background: linear-gradient(to right, #ef5350, #f48fb1, #ff5722);
+    -webkit-background-clip: text; 
+    -webkit-text-fill-color: transparent;
+}
